@@ -1,2 +1,2 @@
 # Pete-Thinkful-Portfolio
-Portfolio for Pete Thinkful Project
+Pete Thinkful Portfolio website project for Chegg Skills
